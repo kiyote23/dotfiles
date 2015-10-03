@@ -5,7 +5,7 @@ export ZSH=$HOME/.oh-my-zsh
 # Look in ~/.oh-my-zsh/themes/
 # Optionally, if you set this to "random", it'll load a random theme each
 # time that oh-my-zsh is loaded.
-ZSH_THEME="bira"
+ZSH_THEME="bunsen"
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -54,6 +54,15 @@ source $ZSH/oh-my-zsh.sh
 export PATH="$PATH:/Users/kiyote23/.rvm/gems/ruby-2.1.3/bin:/Users/kiyote23/.rvm/gems/ruby-2.1.3@global/bin:/Users/kiyote23/.rvm/rubies/ruby-2.1.3/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin:/Users/kiyote23/.rvm/bin"
 export MANPATH="/usr/local/man:$MANPATH"
 export EDITOR='vim'
+bindkey -v
+
+# vi style incremental search
+bindkey '^R' history-incremental-search-backword
+bindkey '^S' history-incremental-search-forward
+bindkey '^P' history-search-backward
+bindkey '^N' history-search-forward
+
+setopt AUTO_CD
 
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8
