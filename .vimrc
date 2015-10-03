@@ -56,7 +56,7 @@ let g:solarized_visibility = "high"
 let g:solarized_contrast = "high"
 let g:solarized_termtrans=1
 colorscheme solarized
-togglebg#map("<F5>")
+"" togglebg#map("<F5>")
 
 " Enable the list of buffers
 let g:airline#extensions#tabline#enabled = 1
