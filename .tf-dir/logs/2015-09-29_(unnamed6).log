@@ -1,0 +1,912 @@
+====================================================================
+=          Log for world *** (unnamed6) ***, started Tue Sep 29 21:42:45 2015
+===================================================================
+This world is Pueblo 1.10 Enhanced.
+-----------------------------------------------------------------------------
+Welcome to Penultimate Destination!
+
+This is an Adult Mush mostly focused on the land of Empyrea, an isolated nation floating in the void of an empty dimension. The setting is specifically designed to allow for a wide variety of roleplay without breaking theme, and can include many different types of play.
+
+Please note that this is an Adult Mush, and you must be 18 years of age or older to play here. If you are found to be younger than 18 at any point, you will be removed from the game and banned.
+
+Use create <name> <password> to create a character.
+Use connect <name> <password> to connect to your existing character.
+If you want/have a name with spaces, put quotes around it like:
+  create "First Last" <password>
+  connect "First Last" <password>
+To connect as a Guest, use connect guest guest
+Use QUIT to logout.
+Use the WHO command to find out who is online currently.
+
+If you are having trouble staying connected, try using the direct IP: 173.230.131.156
+
+-----------------------------------------------------------------------------
+
+Player Name          On For   Idle  Feature Request?
+Galea                5m 54s    38s  
+Ignis                7m 56s     4m  
+Charlotte           17m 14s    11m  
+Lorne Talmire       17m 32s     1m  
+Cammy               18m 47s    49s  
+Cheria              22m 40s    15m  
+Iris                22m 50s    22m  
+Lloyd Irving        23m 40s    23m  
+Annabelle           29m 35s    12m  
+Saber               35m 34s    45s  
+Guest               38m 50s     2m  
+Cayenne             13m 55s    13m  
+Ruler               43m 29s    42m  
+Yume                43m 38s    21m  
+Caria               43m 39s    37m  
+Scathach            43m 45s    16m  
+Moth                43m 49s    44s  
+Suwako Moriya       53m 47s    18m  
+Caro                59m  4s    24m  
+Shielder            59m 18s     9m  
+Rinko Emiya      1h  4m 33s    10m  
+Tomoyo           1h  6m 11s     5m  
+Tiana            1h  6m 18s     3s  
+Pelana           1h 10m 54s     7m  
+Flandre Scarlet  1h 11m  4s    58m  
+Wendy Marvell    1h 11m 30s     1h  
+Lash             1h 12m 50s    17m  
+Invernus         1h 16m 47s     1h  
+Blizzard         1h 23m 24s     1h  
+Lilith-chan      1h 39m 17s     1h  
+Sanji            1h 55m 32s     1h  
+Uni                  2h 30s     1h  
+Bastien              2h  9m    52m  
+Uniko            2h 11m  7s    48s  
+Marco Diaz       2h 15m 45s     1h  
+Daring Do        2h 15m 56s     1m  
+Zebia            2h 24m 47s    53m  
+Princess Luna    2h 24m 24s    26m  
+Mille Feuille    2h 25m 44s    20m  
+Jeannette        2h 33m 17s    12m  
+Delyana'cor      2h 37m  2s     1h  
+Iye              2h 37m 16s    43s  
+Beriel           2h 37m 50s     5m  
+Kaeru            2h 55m 34s     6m  
+Alma Elma        3h  2m 33s    33m  
+Princess Celestia 3h  5m 23s    23m  
+Suzanne Derkins  3h  9m 57s     2h  
+Fluffle Puff     3h 10m  9s    13s  
+Shimakaze        3h 13m 59s     3h  
+Rin-ne           3h 31m 33s     1h  
+Mutsu            3h 39m 27s    46m  
+Homura           3h 39m 39s    50m  
+Tiffani          3h 39m 39s     2h  
+Faruja           3h 47m 32s     5s  
+Eandar           3h 57m 10s     8m  
+Rebound          3h 58m 14s     1h  
+Kaylee-7         3h 58m 16s     3h  
+Maho             4h  1m  2s     1h  
+Volibear         4h 31m 39s     7m  
+Inuyasha         4h 35m 55s    42m  
+Sly Monika       4h 49m 19s    37m  
+Vacha            4h 57m 58s    29m  
+Tai-chan         4h 58m 14s    28m  
+Bowser           5h 17m 46s    16m  
+Sailor Moon      5h 26m 35s    57m  
+Sakura           5h 29m  5s    38m  
+Crazy            5h 31m  1s    49m  
+Sasha            5h 34m 45s     5h  
+Eshana           5h 36m 50s     2m  
+Teitoku          5h 36m 59s     4h  
+The Squid Sisters 5h 37m 14s     5h  
+Rebecca Hawkins  5h 37m 36s     5h  
+Minato Arisato   5h 37m 58s     5h  
+Misty            5h 38m 29s     5h  
+The Carcer Goetia 5h 39m 14s     4h  
+Lustra           5h 54m 55s    34s  
+Mai Shiranui     6h  1m 36s    23m  
+Valentine        6h  5m 54s    14m  
+Nia              6h 27m 22s     3m  
+Elysia           6h 58m 18s     2h  
+Vai              6h 58m 20s     7m  
+The Corentine Twins 6h 58m 21s     6h  
+Amalthea         7h 28m 22s     1h  
+Peach            7h 44m 32s    13m  
+Risette          7h 49m 40s     2h  
+Fiona leBlanc    7h 54m 14s     1m  
+Nabaal-chan      7h 54m 28s     1m  
+Valeska          7h 54m 33s     1m  
+Maya             7h 58m 17s     2m  
+Veronica         7h 58m 24s    50m  
+Lloyd Irving     8h 12m 32s     8h  
+Blake Belladonna 8h 47m 37s     9m  
+Suu              8h 56m 36s     5m  
+Lady Deathwing   9h  1m  1s     4m  
+Katt             9h  3m 49s     1m  
+Yang Xiao Long   9h  4m 46s     5m  
+Celes Chere      9h 12m 43s     1h  
+Kim Traynor      9h 13m 15s     3h  
+Great Wolf Sif   9h 23m  5s     1h  
+Wrathion         9h 23m 20s     1h  
+Marceline        9h 51m 13s     3h  
+Flandre             10h 16m     6m  
+Miho                10h 21m    28m  
+Setsuna             10h 22m     5h  
+Onyxia              10h 32m     4h  
+Polt                10h 33m    10m  
+Toni                11h 28m     9m  
+Maia                11h 28m     2m  
+Anchorage Noyo-hime    12h 30m     1h  
+Lauren              13h 19m     7m  
+Sanary              13h 26m     9h  
+Angelica            12h 48m     3h  If you're happy and you know it #-1
+Kirrus              15h  9m    12s  
+Jaedda              15h  9m     1h  
+Alderic             15h  9m     1h  
+Tharodund           17h 32m    17h  
+Velatha             17h 36m     1h  
+Heart               20h 21m    10h  
+Robert Halstrom     20h 37m     4h  
+Chelsea          1d  6m 22s     7m  
+Ellie            1d  3h 12m    23h  
+Garcia Lovelace  1d  4h 36m    12h  
+Rachnera         1d  5h  1m     3m  
+Miia             1d  6h 51m     3s  
+Bridget          1d  6h 55m     1h  
+Kirin            1d 11h 22m    19h  
+Mitsuru          1d 13h 31m    22h  
+Link             1d 13h 32m     1m  
+Yoruichi         1d 13h 32m     1d  
+Ami              1d 13h 32m     3h  
+Neige            1d 13h 32m     1d  
+Dawn             1d 13h 32m    22h  
+Haruhi           1d 13h 32m     1d  
+Jaela            1d 13h 32m     1d  
+Fate             1d 13h 32m     1d  
+Laddie           1d 13h 32m     3h  
+Laine            1d 13h 32m     1h  
+Amethyst         1d 15h 37m    14h  
+Shimakaze        1d 22h 16m     5h  
+Assassin of Black 2d  1h  4m    22h  
+Minako Aino      2d  2h 46m     5h  
+Alouette         2d  4h 10m     4h  
+Zelda            2d  4h 54m     1d  
+Cyrena           2d  5h 22m    10m  
+Psyber           2d  6h 13m     5m  
+Geil             2d 10h 53m    10h  
+Hisagi           2d 18h 42m    22h  
+Avatar Robin     2d 18h 44m     1h  
+Makoto           2d 20h 19m     3h  
+Naal             2d 20h 19m     1h  
+Ravnica Girls    2d 20h 23m     6h  
+Taby             2d 20h 24m     4h  
+Tina             2d 20h 24m     1h  
+Glass-ADMIN      2d 20h 54m    13m  
+Stocking         2d 22h  4m    40m  
+Crazy            2d 22h 32m     8h  
+Misha            2d 22h 32m     2d  
+The Powerpuff Girls 2d 22h 32m     2d  
+Nanoha           2d 22h 32m    21h  
+Fluttershy       2d 22h 32m     2d  
+Tifa             2d 22h 32m    20h  
+Flonne           2d 22h 32m     8h  
+Amalthea         2d 22h 32m     8h  
+Soarin           3d  3h 32m     5h  
+Evenya           3d  3h 54m     7m  
+Whitefeather     3d  5h 42m    10m  
+Taronja          3d  7h 29m     6h  
+Leviathan        3d  8h 28m    10s  
+Shiro            3d  8h 56m     2d  
+Ilyasviel        3d  8h 57m    10m  
+Cute             3d  8h 58m    22h  
+Cecily           3d 15h 30m     4h  
+Tionishia        3d 15h 30m    19h  
+Eon Sisters      3d 15h 30m     4h  
+Sexpets          4d  3h 52m     6h  
+Brande           4d 23h 57m     3h  
+Velepa           5d  1h  4s     2h  
+Yamato           5d  6h 55m    12m  
+Caelan           5d  8h 37m     4h  
+Succubus         5d  8h 37m     5h  
+Shygirl          5d  8h 37m     2h  
+Renamon          5d  8h 37m     1h  
+Avanya           5d 11h 13m     1m  
+Star Butterfly   5d 21h 58m     2h  
+Maho             5d 22h 44m     5h  
+Ramza            5d 22h 44m     1d  
+Ramza            6d  2h 29m     1d  
+Sudato           6d  4h  3m     2m  
+Jumisa           6d 22h 31m     2h  
+Polt             1w  7h 29m     1d  
+Neviril          1w  8h 27m     3d  
+Marceline        1w  1d 52m     5h  
+Midway Princess  1w  1d  1h     2d  
+Mina             1w  3d 20h     1d  
+Risette          1w  5d  6h    20h  
+Katsuragi        1w  5d  6h    19h  
+Naruko           1w  5d 12h    20h  
+Leone            1w  5d 23h     2d  
+World-ADMIN      2w  1d 10h     7m  
+Vivio            2w  1d 12h     3d  
+Hayate Yagami    2w  1d 12h     4d  
+Toph             2w  1d 19h     4d  
+Winter           2w  1d 19h     4d  
+Rydia            2w  1d 19h     4d  
+Recette          2w  1d 19h    21h  
+Kuro             2w  1d 19h     4d  
+Minako           2w  1d 19h     4d  
+Himeko Kurusugawa 2w  1d 19h     1d  
+Cassandra        2w  1d 19h     1d  
+Lolikeano Mistream 2w  1d 19h    31m  
+Anne Blakely     2w  1d 19h    38m  
+Kino             2w  1d 19h     1d  
+Mione            2w  1d 19h     6m  
+Chiyo            2w  1d 19h     1d  
+Arf              2w  1d 19h     3h  
+Usagi            2w  1d 19h     9h  
+Natalia          2w  1d 19h     1d  
+Naoto            2w  1d 19h     3h  
+Caeline          2w  1d 19h     3h  
+Deis             2w  1d 19h     1m  
+Elsa             2w  5d 10h    15m  
+Yakumo Yukari    2w  6d 11h     1w  
+Onyxia           4w  3d  2h    22h  
+Artemis          4w  3d  5h     1d  
+Katara           5w  3d 23h     2h  
+Nanako           5w  5d 12h    11m  
+Serena           5w  5d 12h     1d  
+Biril            5w  5d 12h    18m  
+Hild             5w  5d 12h     5d  
+Uriel and Qemuel 5w  5d 12h     8m  
+Kaya             5w  5d 12h     1d  
+Saaya            5w  5d 12h     2d  
+Ivy              5w  5d 12h     1d  
+Mimi             5w  5d 12h     2d  
+Cirno            5w  5d 12h     5d  
+Remilia Scarlet  5w  5d 12h    18m  
+Yuna             5w  5d 12h     9m  
+Lyssa and Nyssa  5w  5d 12h     2d  
+Rin              5w  5d 12h     1d  
+Selvaria         5w  5d 12h    23h  
+Rei              5w  5d 12h    23h  
+Hermione         5w  5d 12h     1d  
+Etna             5w  5d 12h    21h  
+Samus            5w  5d 12h    23h  
+Rita             5w  5d 12h    23h  
+Nina             5w  5d 13h     2d  
+Poison           6w  1d  3h    20h  
+Astaelaanda      6w  1d 23h     1d  
+Alchemy-ADMIN    6w  3d 10h    13m  
+Daegulin         7w  2d 11h     9m  
+AmyK             9w  3d 23h    21h  
+Mileva Romanova     11w  3d     1w  
+Suzanne Derkins     16w  6h     4h  
+Yukiko              16w  4d     7h  
+There are 254 players connected.
+Welcome to Penultimate Destination!
+--------------------------------------------------------------------------
+
+Welcome to Penultimate Destination!
+
+ 
+
+
+MAIL: You have no mail.
+
+--- << Guest Room >> ------------------------------------------------------------------------------------- << NONE >>
+
+        Hello, and welcome to Penultimate Destination!
+
+        You're currently in the Guest Room, which means you are most likely a Guest. Guests have limited access to commands, but you can use +where, +who, and +finger to look around and see what's up. You can also read the news and help files, with news and +help as the commands to list the possible topics.
+
+        If you have questions, please feel free to ask them on the Newbie channel using the command +new <text>
+
+--------------------------------------------------------------------------------------------------- << Players >> ---
+Guest2                                                                       1s
+Guest                                                                    2m 55s
+---------------------------------------------------------------------------------------------------------------------
+<Newbie> Guest2 has connected.
+<Newbie> Fluffle Puff waves!
+<Newbie> Guest2 waves!
+---------------------------------- << Penultimate Destination Player Locations >> -----------------------------------
+Region Location                            Occupants(red = idle >1 hour)
+Cerel  Cerel Road - Frontier Fork          Galea                              
+Apos   Charlotte's Apothecary - Back Room  Charlotte                          
+Diony  Colosseum - Entrance                Blizzard                           
+Diony  Coral Academy - Main Classroom      Kaeru                              
+Diony  Coral Academy - The Lobby           Rebecca Hawkins                    
+Diony  Diony Mall - Main Room              Fiona leBlanc                      
+Cerel  Emerald Forest - Deep Forest        Valeska                            
+Cerel  Emerald Forest - Quiet Glade        Lorne Talmire and Maya             
+Cerel  Endless Sea - South Shallows        Nabaal-chan                        
+Apos   Fairy Tail - Guild Hall             Wendy Marvell                      
+Diony  Fancy Fashions - Main Room          Taronja                            
+Diony  Horizon - Private Residence         Tiffani                            
+Diony  Horizon - Underground Laboratory    Zebia                              
+Apos   House Yakumo - Apos Branch          Yakumo Yukari                      
+Cerel  Naruse Teahouse - Gardens           Cecily, Invernus, and Veronica     
+Apos   Six Points - Starshine Way          Beriel                             
+Apos   Skyline Apartments - Lobby          Tina                               
+Cerel  The Dark Tower - Dungeon            Kaya                               
+Cerel  The Dungeons Goetia - The Dungeon o Maia                               
+Diony  The Nerd Haven - Arcade             Bowser                             
+Apos   Wanderer's Threads - Main Showroom  Elysia                             
+---------------------------------------------------------------------------------------------------------------------
+                    Use +where/all to get complete listing                    
+---------------------------------------------------------------------------------------------------------------------
+---------------------------------- << Penultimate Destination Player Locations >> -----------------------------------
+Region Location                            Occupants(red = idle >1 hour)
+NONE   ApartmentMaster                     Alchemy-ADMIN                      
+Apos   Athanasia - Private Loft            Suu                                
+Apos   Blueflame Bank - Dragonhome         Brande                             
+Cerel  Cerel Road - Frontier Fork          Galea                              
+Create CharGen - Final Touches             Mina                               
+Apos   Charlotte's Apothecary - Back Room  Charlotte                          
+Diony  Colosseum - Entrance                Blizzard                           
+Diony  Coral Academy - Main Classroom      Kaeru                              
+Diony  Coral Academy - The Lobby           Rebecca Hawkins                    
+Cerel  Cozy Eyrie - Main Room              Cyrena and Whitefeather            
+Diony  Diony Mall - Main Room              Fiona leBlanc                      
+Diony  Einzbern Manor - Grand Hall         Haruhi, Hayate Yagami, Hild,       
+                                           Ilyasviel, Lolikeano Mistream, and 
+                                           Uriel and Qemuel                   
+Apos   Elegant Mansion - Main Room         Ellie                              
+Cerel  Elven Treehouse - Main Room         Avanya and Evenya                  
+Cerel  Emerald Forest - Deep Forest        Valeska                            
+Cerel  Emerald Forest - Quiet Glade        Lorne Talmire and Maya             
+Cerel  Endless Sea - South Shallows        Nabaal-chan                        
+Apos   Fairy Tail - Guild Hall             Wendy Marvell                      
+Diony  Fallen Angel Armory - Loft          Flonne, Kino, and Selvaria         
+Diony  Fancy Fashions - Back Room          Tomoyo                             
+Diony  Fancy Fashions - Main Room          Taronja                            
+Apos   Fluttershy's Cottage - Cottage Inte Cirno and Fluttershy               
+NONE   Free Code Room                      Lilith-chan                        
+NONE   Guest Room                          Guest and Guest2                   
+Diony  Horizon - Private Residence         Tiffani                            
+Diony  Horizon - Underground Laboratory    Zebia                              
+Apos   House Yakumo - Apos Branch          Yakumo Yukari                      
+OOC    Idle Room                           Amethyst, AmyK, Astaelaanda,       
+                                           Eandar, Eon Sisters, Jeannette,    
+                                           Robert Halstrom, Ruler, Saber,     
+                                           Serena, Tionishia, and Yukiko      
+Cerel  Kitsune Arms - Atrium               Kaylee-7                           
+Apos   Lost Heaven - Basement              Chiyo, Fate, Tifa, and Toph        
+NONE   Misty's Tent                        Misty                              
+Apos   Mushroom House - Main Room          Kuro, Mimi, Rin, and Shiro         
+Cerel  Naruse Teahouse - Gardens           Cecily, Invernus, and Veronica     
+Cerel  Obsidian Sanctum - Deathwing's Cham Scathach                           
+Cerel  Obsidian Sanctum - Magma Heart      Lady Deathwing, Onyxia, Vacha, and 
+                                           Wrathion                           
+OOC    OOC Nexus                           Alma Elma, Bastien, Blake          
+                                           Belladonna, Caelan, Cammy, Caria,  
+                                           Cayenne, Celes Chere, Chelsea,     
+                                           Cute, Daegulin, Delyana'cor,       
+                                           Eshana, Garcia Lovelace, Geil,     
+                                           Great Wolf Sif, Inuyasha, Iris,    
+                                           Iye, Jaedda, Kim Traynor, Lloyd    
+                                           Irving, Lustra, Miho, Miia, Minako 
+                                           Aino, Moth, Neviril, Pelana,       
+                                           Rachnera, Ramza, Ravnica Girls,    
+                                           Rebound, Sailor Moon, Sanji, Sasha,
+                                           Shygirl, Sly Monika, Soarin,       
+                                           Stocking, Sudato, Suwako Moriya,   
+                                           Suzanne Derkins, Tharodund, The    
+                                           Corentine Twins, The Squid Sisters,
+                                           Toni, Uni, Volibear, and Yume      
+Diony  Pale Manor - Main Room              Neige and Velatha                  
+Build  Patisserie l'Enflure - Tasting Room Lash, Mille Feuille, and Valentine 
+Diony  Potions and Puppets - Apartment     Anne Blakely, Sakura, and Vai      
+Diony  Rinko's House - Main Room           Rinko Emiya and Shielder           
+Apos   Runnin' The Rack - Angelica's Room  Angelica                           
+Diony  Rustic Cabin - Front Yard           Laddie and Zelda                   
+OOC    Sandbox 4                           Faruja and Uniko                   
+Cerel  Scarlet Devil Mansion - Master Bedr Flandre, Flandre Scarlet, and      
+                                           Remilia Scarlet                    
+Apos   SEES Dormitory - Minato's Room      Minato Arisato                     
+Apos   SEES Dormitory - Third Floor        Mitsuru                            
+Apos   Six Points - Starshine Way          Beriel                             
+Apos   Skyline Apartments - Lobby          Tina                               
+Apos   Skyline Apartments - Room 808       Yuna                               
+Diony  SoulSong Tower - Bedroom            Himeko Kurusugawa                  
+NONE   Temporary Fleet Daughter Base       Leviathan, Mutsu, Sanary, Tai-chan,
+                                           Teitoku, and Yamato                
+Apos   The Cat Castle - Living Room        Ami, Artemis, Makoto, Minako, Rei, 
+                                           Setsuna, and Usagi                 
+Cerel  The Dark Tower - Dungeon            Kaya                               
+Cerel  The de Kest Estate - Grounds        Rin-ne                             
+Cerel  The Dungeons Goetia - Sitri's Sanct The Carcer Goetia                  
+Cerel  The Dungeons Goetia - The Dungeon o Maia                               
+Diony  The Nerd Haven - Arcade             Bowser                             
+Cerel  The Ninth Atoll - Abyssal Base - Ma Anchorage Noyo-hime and Midway     
+                                           Princess                           
+Diony  Unicorn Cottage - Hidden Glade      Alouette, Amalthea, Caro, Hermione,
+                                           and Mione                          
+NONE   Velepa's Capsule House <VCH>        Velepa                             
+Apos   Wanderer's Threads - Main Showroom  Elysia                             
+Diony  White Willow - Main Room            Cheria                             
+Cerel  Windia Cabin - Main Room            Deis, Katt, Nina, and Tiana        
+Cerel  Witch's Glen - Bedroom              Yoruichi                           
+Cerel  Wolf Den - Main Room                Link and Nia                       
+---------------------------------------------------------------------------------------------------------------------
+--- << Guest Room >> ------------------------------------------------------------------------------------- << NONE >>
+
+        Hello, and welcome to Penultimate Destination!
+
+        You're currently in the Guest Room, which means you are most likely a Guest. Guests have limited access to commands, but you can use +where, +who, and +finger to look around and see what's up. You can also read the news and help files, with news and +help as the commands to list the possible topics.
+
+        If you have questions, please feel free to ask them on the Newbie channel using the command +new <text>
+
+--------------------------------------------------------------------------------------------------- << Players >> ---
+Guest2                                                                       0s
+Guest                                                                     4m 4s
+---------------------------------------------------------------------------------------------------------------------
+---------------------------------- << Penultimate Destination Connected Players >> ----------------------------------
+Name                   Alias      S ConnIdle Location
+Guest2                 G2            1m( 0s) Guest Room
+Tiana                             F  1h( 1s) Windia Cabin - Main Room
+Eandar                            M  3h( 1s) Idle Room
+Renamon                           F  5d( 2s) UNFINDABLE
+Suu                    Goo        F  8h( 3s) Athanasia - Private Loft
+Fluffle Puff           Fluffy     F  3h( 7s) UNFINDABLE
+Kirrus                            M 15h(15s) UNFINDABLE
+Lady Deathwing         Deathwing  F  9h(16s) Obsidian Sanctum - Magma Heart
+Lorne Talmire          Lorne      M 19m(17s) Emerald Forest - Quiet Glade
+Caro                              N  1h(19s) Unicorn Cottage - Hidden Glade
+Katt                   Rinpoo     F  9h(23s) Windia Cabin - Main Room
+Charlotte              CC         H 18m(25s) Charlotte's Apothecary - Back Room
+Sudato                            F  6d(30s) OOC Nexus
+Cammy                             F 20m(32s) OOC Nexus
+Uniko                             f  2h(34s) Sandbox 4
+Lauren                 l          T 13h(36s) UNFINDABLE
+Maya                              F  8h(42s) Emerald Forest - Quiet Glade
+Daring Do              DD         F  2h(45s) UNFINDABLE
+Leviathan              levi       F  3d(54s) Temporary Fleet Daughter Base
+Miia                              F  1d(58s) OOC Nexus
+Saber                             F 37m( 1m) Idle Room
+Evenya                            F  3d( 1m) Elven Treehouse - Main Room
+Scathach               Sca        F 45m( 1m) Obsidian Sanctum - Deathwing's Chambers
+Mille Feuille          1K         H  2h( 1m) Patisserie l'Enflure - Tasting Room
+Maia                              F 11h( 1m) The Dungeons Goetia - The Dungeon of Audri
+Faruja                 Faru       M  3h( 1m) Sandbox 4
+Lustra                            H  5h( 2m) OOC Nexus
+Galea                  Tobihime   F  7m( 2m) Cerel Road - Frontier Fork
+Iye                               M  2h( 2m) OOC Nexus
+Moth                              m 45m( 2m) OOC Nexus
+Link                              M  1d( 3m) Wolf Den - Main Room
+Deis                              F  2w( 3m) Windia Cabin - Main Room
+Fiona leBlanc          Fiona      f  7h( 3m) Diony Mall - Main Room
+Nabaal-chan            DDH-17     f  7h( 3m) Endless Sea - South Shallows
+Avanya                 Avy        F  5d( 3m) Elven Treehouse - Main Room
+Valeska                Koly       F  7h( 3m) Emerald Forest - Deep Forest
+Guest                  G0           40m( 4m) Guest Room
+Eshana                 esh        S  5h( 4m) OOC Nexus
+Rachnera               Rach       F  1d( 5m) OOC Nexus
+Nia                    Nialen     F  6h( 5m) Wolf Den - Main Room
+Ignis                  Zapwuf     F  9m( 6m) UNFINDABLE
+Beriel                            F  2h( 6m) Six Points - Starshine Way
+Tomoyo                 CCT        F  1h( 7m) Fancy Fashions - Back Room
+Psyber                 Psy        M  2d( 7m) UNFINDABLE
+Yang Xiao Long         Yellow     F  9h( 7m) UNFINDABLE
+Flandre                           F 10h( 8m) Scarlet Devil Mansion - Master Bedroom
+Mione                             N  2w( 8m) Unicorn Cottage - Hidden Glade
+Kaeru                  Bored      F  2h( 8m) Coral Academy - Main Classroom
+Vai                               F  7h( 8m) Potions and Puppets - Apartment
+Volibear                          M  4h( 9m) OOC Nexus
+Chelsea                           S  1d( 9m) OOC Nexus
+World-ADMIN            1          M  2w( 9m) UNFINDABLE
+Pelana                            F  1h( 9m) OOC Nexus
+Uriel and Qemuel       angels     F  5w(10m) Einzbern Manor - Grand Hall
+Shielder               Mashu      F  1h(11m) Rinko's House - Main Room
+Daegulin               Daeg       H  7w(11m) OOC Nexus
+Yuna                              F  5w(11m) Skyline Apartments - Room 808
+Blake Belladonna       Black      F  8h(11m) OOC Nexus
+Toni                              F 11h(11m) OOC Nexus
+Rinko Emiya            Rinko      F  1h(11m) Rinko's House - Main Room
+Ilyasviel              IlyaWithOn F  3d(11m) Einzbern Manor - Grand Hall
+Whitefeather           wf         M  3d(11m) Cozy Eyrie - Main Room
+Polt                              H 10h(12m) UNFINDABLE
+Cyrena                 cmv        F  2d(12m) Cozy Eyrie - Main Room
+Nanako                 ND         F  5w(13m) UNFINDABLE
+Annabelle              Ann        H 31m(14m) UNFINDABLE
+Yamato                 Potato     F  5d(14m) Temporary Fleet Daughter Base
+Jeannette                         F  2h(14m) Idle Room
+Alchemy-ADMIN                     t  6w(14m) ApartmentMaster
+Glass-ADMIN                       F  2d(15m) UNFINDABLE
+Peach                             F  7h(15m) UNFINDABLE
+Cayenne                           M 15m(15m) OOC Nexus
+Valentine              Valen      m  6h(15m) Patisserie l'Enflure - Tasting Room
+Cheria                            F 24m(16m) White Willow - Main Room
+Elsa                              F  2w(17m) UNFINDABLE
+Bowser                            M  5h(17m) The Nerd Haven - Arcade
+Lash                              M  1h(19m) Patisserie l'Enflure - Tasting Room
+Suwako Moriya          kero       F 55m(19m) OOC Nexus
+Biril                             F  5w(20m) UNFINDABLE
+Remilia Scarlet        Remi       F  5w(20m) Scarlet Devil Mansion - Master Bedroom
+Yume                              B 45m(23m) OOC Nexus
+Iris                              n 24m(24m) OOC Nexus
+Mai Shiranui           Mai        F  6h(24m) UNFINDABLE
+Princess Celestia      Sunbutt    F  3h(25m) UNFINDABLE
+Lloyd Irving           Lloyd      M 25m(25m) OOC Nexus
+Princess Luna          Luna       F  2h(28m) UNFINDABLE
+Tai-chan               bote       F  4h(30m) Temporary Fleet Daughter Base
+Miho                              H 10h(30m) OOC Nexus
+Vacha                  Wuf        B  4h(31m) Obsidian Sanctum - Magma Heart
+Lolikeano Mistream     loliwitch  F  2w(33m) Einzbern Manor - Grand Hall
+Alma Elma              queensuc   F  3h(34m) OOC Nexus
+Caria                  Car        F 45m(39m) OOC Nexus
+Sly Monika             sly        f  4h(39m) OOC Nexus
+Sakura                            N  5h(39m) Potions and Puppets - Apartment
+Anne Blakely           ab         F  2w(40m) Potions and Puppets - Apartment
+Stocking                          F  2d(42m) OOC Nexus
+Inuyasha               Inny       M  4h(43m) OOC Nexus
+Ruler                  Jeanne     f 45m(44m) Idle Room
+Mutsu                             F  3h(47m) Temporary Fleet Daughter Base
+Crazy                  Kiel       F  5h(51m) UNFINDABLE
+Veronica                          f  8h(51m) Naruse Teahouse - Gardens
+Homura                            S  3h(51m) UNFINDABLE
+Bastien                           M  2h(54m) OOC Nexus
+Zebia                             H  2h(55m) Horizon - Underground Laboratory
+Sailor Moon            Usako      F  5h(58m) OOC Nexus
+Flandre Scarlet        msflandre  F  1h( 1h) Scarlet Devil Mansion - Master Bedroom
+Wrathion                          M  9h( 1h) Obsidian Sanctum - Magma Heart
+Bridget                Buri       M  1d( 1h) UNFINDABLE
+Maho                              S  4h( 1h) UNFINDABLE
+Laine                             F  1d( 1h) UNFINDABLE
+Invernus                          m  1h( 1h) Naruse Teahouse - Gardens
+Lilith-chan            LC         F  1h( 1h) Free Code Room
+Blizzard                          M  1h( 1h) Colosseum - Entrance
+Alderic                ald        M 15h( 1h) UNFINDABLE
+Wendy Marvell          ftwendy    F  1h( 1h) Fairy Tail - Guild Hall
+Tina                              f  2d( 1h) Skyline Apartments - Lobby
+Naal                              F  2d( 1h) UNFINDABLE
+Jaedda                            F 15h( 1h) OOC Nexus
+Avatar Robin           FEA        M  2d( 1h) UNFINDABLE
+Great Wolf Sif         swordwoof  M  9h( 1h) OOC Nexus
+Rebound                           F  3h( 1h) OOC Nexus
+Amalthea                          F  7h( 1h) Unicorn Cottage - Hidden Glade
+Velatha                           F 17h( 1h) Pale Manor - Main Room
+Celes Chere            Celes      F  9h( 1h) OOC Nexus
+Delyana'cor            DC         F  2h( 1h) OOC Nexus
+Anchorage Noyo-hime    Noyo       F 12h( 1h) The Ninth Atoll - Abyssal Base - Main Room
+Marco Diaz             MUD        M  2h( 1h) UNFINDABLE
+Rin-ne                 rinny      M  3h( 1h) The de Kest Estate - Grounds
+Sanji                             M  1h( 1h) OOC Nexus
+Uni                    Black Sist F  2h( 2h) OOC Nexus
+Velepa                 blppr      F  5d( 2h) Velepa's Capsule House <VCH>
+Jumisa                 tiger      F  6d( 2h) UNFINDABLE
+Katara                            F  5w( 2h) UNFINDABLE
+Shygirl                           F  5d( 2h) OOC Nexus
+Tiffani                Tiffy      F  3h( 2h) Horizon - Private Residence
+Star Butterfly         Star       F  5d( 2h) UNFINDABLE
+Elysia                 Ely        F  7h( 2h) Wanderer's Threads - Main Showroom and Accessories
+Suzanne Derkins        Suzanne    F  3h( 2h) OOC Nexus
+Kim Traynor            KTray      F  9h( 3h) OOC Nexus
+Shimakaze              breezy     F  3h( 3h) UNFINDABLE
+Arf                               S  2w( 3h) UNFINDABLE
+Marceline              Marcy      V  9h( 3h) UNFINDABLE
+Naoto                             M  2w( 3h) UNFINDABLE
+Brande                 DRG        S  4d( 3h) Blueflame Bank - Dragonhome
+Laddie                            M  1d( 3h) Rustic Cabin - Front Yard
+Ami                               F  1d( 3h) The Cat Castle - Living Room
+Makoto                            F  2d( 3h) The Cat Castle - Living Room
+Kaylee-7               K7         F  3h( 3h) Kitsune Arms - Atrium
+Caeline                Peg        F  2w( 3h) UNFINDABLE
+Angelica               A          F 12h( 3h) Runnin' The Rack - Angelica's Room
+Taby                              f  2d( 4h) UNFINDABLE
+Eon Sisters            eon        F  3d( 4h) Idle Room
+Cecily                 Shishi     F  3d( 4h) Naruse Teahouse - Gardens
+Alouette               Alou       N  2d( 4h) Unicorn Cottage - Hidden Glade
+Teitoku                Admiral    M  5h( 4h) Temporary Fleet Daughter Base
+The Carcer Goetia      TCG        F  5h( 4h) The Dungeons Goetia - Sitri's Sanctum
+Caelan                            m  5d( 4h) OOC Nexus
+Robert Halstrom        Gentacle   M 20h( 4h) Idle Room
+Setsuna                           F 10h( 5h) The Cat Castle - Living Room
+Minako Aino            Venus      F  2d( 5h) OOC Nexus
+Sasha                             F  5h( 5h) OOC Nexus
+The Squid Sisters      Squid      F  5h( 5h) OOC Nexus
+Rebecca Hawkins        Rebecca    F  5h( 5h) Coral Academy - The Lobby
+Minato Arisato         P3         M  5h( 5h) SEES Dormitory - Minato's Room
+Misty                             F  5h( 5h) Misty's Tent
+Soarin                 birdhorse  M  3d( 5h) OOC Nexus
+Succubus                          F  5d( 5h) UNFINDABLE
+Ravnica Girls          RG         f  2d( 6h) OOC Nexus
+Taronja                orange     f  3d( 6h) Fancy Fashions - Main Room
+Sexpets                sxp        F  4d( 6h) UNFINDABLE
+The Corentine Twins    corentine  F  7h( 6h) OOC Nexus
+Yukiko                            F 16w( 7h) Idle Room
+Flonne                            F  2d( 8h) Fallen Angel Armory - Loft
+Usagi                             F  2w( 9h) The Cat Castle - Living Room
+Sanary                            F 13h( 9h) Temporary Fleet Daughter Base
+Geil                   Horny      V  2d(10h) OOC Nexus
+Heart                             H 20h(10h) UNFINDABLE
+Garcia Lovelace        GarL       M  1d(12h) OOC Nexus
+Amethyst                          F  1d(14h) Idle Room
+Tharodund              Tharo      M 17h(17h) OOC Nexus
+Tionishia              Tio        F  3d(19h) Idle Room
+Kirin                             H  1d(19h) UNFINDABLE
+Katsuragi              Katsu      H  1w(19h) UNFINDABLE
+Naruko                            F  1w(20h) UNFINDABLE
+Poison                            S  6w(20h) UNFINDABLE
+Risette                Rise       H  1w(20h) UNFINDABLE
+Tifa                              S  2d(20h) Lost Heaven - Basement
+Etna                              F  5w(21h) UNFINDABLE
+Recette                           N  2w(21h) UNFINDABLE
+AmyK                              F  9w(21h) Idle Room
+Nanoha                            F  2d(21h) UNFINDABLE
+Onyxia                 Ony        F  4w(22h) Obsidian Sanctum - Magma Heart
+Cute                   cuter      C  3d(22h) OOC Nexus
+Dawn                              F  1d(22h) UNFINDABLE
+Assassin of Black      Ripper     S  2d(22h) UNFINDABLE
+Hisagi                            F  2d(22h) UNFINDABLE
+Mitsuru                mk         F  1d(22h) SEES Dormitory - Third Floor
+Rita                              F  5w(23h) UNFINDABLE
+Selvaria                          S  5w(23h) Fallen Angel Armory - Loft
+Ellie                             F  1d(23h) Elegant Mansion - Main Room
+Samus                             F  5w(23h) UNFINDABLE
+Rei                               F  5w(23h) The Cat Castle - Living Room
+Hermione                          F  5w( 1d) Unicorn Cottage - Hidden Glade
+Natalia                           F  2w( 1d) UNFINDABLE
+Jaela                  LoliPope   N  1d( 1d) UNFINDABLE
+Ramza                  racha      V  6d( 1d) OOC Nexus
+Kaya                              F  5w( 1d) The Dark Tower - Dungeon
+Yoruichi               yoru       F  1d( 1d) Witch's Glen - Bedroom
+Fate                              F  1d( 1d) Lost Heaven - Basement
+Rin                               F  5w( 1d) Mushroom House - Main Room
+Neige                             F  1d( 1d) Pale Manor - Main Room
+Haruhi                            F  1d( 1d) Einzbern Manor - Grand Hall
+Zelda                             F  2d( 1d) Rustic Cabin - Front Yard
+Serena                 xy         F  5w( 1d) Idle Room
+Mina                              F  1w( 1d) CharGen - Final Touches
+Himeko Kurusugawa      him        F  2w( 1d) SoulSong Tower - Bedroom
+Cassandra              ca         F  2w( 1d) UNFINDABLE
+Artemis                arti       M  4w( 1d) The Cat Castle - Living Room
+Ivy                               F  5w( 1d) UNFINDABLE
+Astaelaanda            ast        S  6w( 1d) Idle Room
+Chiyo                             F  2w( 1d) Lost Heaven - Basement
+Kino                              F  2w( 1d) Fallen Angel Armory - Loft
+Misha                             F  2d( 2d) UNFINDABLE
+Saaya                             S  5w( 2d) UNFINDABLE
+Fluttershy             FS         S  2d( 2d) Fluttershy's Cottage - Cottage Interior
+Leone                             S  1w( 2d) UNFINDABLE
+Midway Princess        Mid        H  1w( 2d) The Ninth Atoll - Abyssal Base - Main Room
+Shiro                  Shiromon   F  3d( 2d) Mushroom House - Main Room
+Lyssa and Nyssa        twins      H  5w( 2d) UNFINDABLE
+Nina                              S  5w( 2d) Windia Cabin - Main Room
+Mimi                              F  5w( 2d) Mushroom House - Main Room
+The Powerpuff Girls    PPG        F  2d( 2d) UNFINDABLE
+Vivio                             N  2w( 3d) UNFINDABLE
+Neviril                Nevy       H  1w( 3d) OOC Nexus
+Minako                            F  2w( 4d) The Cat Castle - Living Room
+Kuro                              F  2w( 4d) Mushroom House - Main Room
+Toph                              F  2w( 4d) Lost Heaven - Basement
+Winter                            F  2w( 4d) UNFINDABLE
+Hayate Yagami          Hay        F  2w( 4d) Einzbern Manor - Grand Hall
+Rydia                             F  2w( 4d) UNFINDABLE
+Hild                              F  5w( 5d) Einzbern Manor - Grand Hall
+Cirno                             F  5w( 5d) Fluttershy's Cottage - Cottage Interior
+Yakumo Yukari          883        F  2w( 1w) House Yakumo - Apos Branch
+Mileva Romanova                   F 11w( 1w) UNFINDABLE
+------------------------------------------------------------------------------------ << 244/244 Players Listed >> ---
+<Newbie> Fluffle Puff hugs and brings out the welcome bacon.
+<Newbie> Guest2 says, "There's bacon?"
+--- << Guest Room >> ------------------------------------------------------------------------------------- << NONE >>
+
+        Hello, and welcome to Penultimate Destination!
+
+        You're currently in the Guest Room, which means you are most likely a Guest. Guests have limited access to commands, but you can use +where, +who, and +finger to look around and see what's up. You can also read the news and help files, with news and +help as the commands to list the possible topics.
+
+        If you have questions, please feel free to ask them on the Newbie channel using the command +new <text>
+
+--------------------------------------------------------------------------------------------------- << Players >> ---
+Guest2                                                                       0s
+Guest                                                                    5m 18s
+---------------------------------------------------------------------------------------------------------------------
+-------------------------------------- << Finger For: Fluffle Puff (Fluffy) >> --------------------------------------
+Sex: Female                          Connected: 3h 13m 1s (Idle 28s)         
+Station: Citizen                     Status: OOC                             
+Location: UNFINDABLE                                                          
+Alts: None listed.                                                            
+--- << Profile Information >> ---------------------------------------------------------------------------------------
+Age: 17                                App Age: Young Adult                  
+Sex Pref: Will cuddle anyone.          Species: Humanized Pony               
+Short Desc:        Very Pink, Very Fluffy.
+Source:            MLP:FiM fandom.
+Picture:           http://imgur.com/QFY7unN
+---------------------------------------------------------------------------------------------------------------------
+<Newbie> Fluffle Puff adds extra bacon to a ham and egg crossiant and passes it over.
+<Newbie> Guest2 says, "Wow. You've got my number. Thanks!"
+<Newbie> Fluffle Puff beams!
+--- << Index >> -----------------------------------------------------------------------------------------------------
+Index of News files
+
+        Upon reading, you may encounter subcategories. Access these with news <category>/<subcategory>
+
+Building           Channels           Index              Regions            Rules              Station           
+Theme             
+---------------------------------------------------------------------------------------------------------------------
+--- << Theme >> -----------------------------------------------------------------------------------------------------
+
+        The Penultimate Destination setting is chiefly centered around the lands of Empyrea, floating in the Great Void. No one is exactly certain what the Great Void is, with theories ranging from a gap in spacetime between worlds, to an unformed world that seeks out something to define itself with. In the end, the only thing that matters is this: people and things tend to slip between the 'cracks' of their own worlds and fall into the Great Void, and getting out is difficult. Getting out to where you want to go is much, much more difficult.
+
+        The earliest arrivals had the greatest influence, as the formless Void manifest objects and even land and water from the subconscious desires and needs of those around it, but newer arrivals find their influence, individually, lessened by the presence of so many others. The First Three formed the land of Empyrea, the three siblings arriving to immediately create a sprawling landscape from their desires. The siblings were close, so some common elements helped to form the land into a somewhat cohesive whole.
+
+        No one remembers their names, but according to tales the three could not reach an agreement on how the land and newcomers would be treated. Instead of a unified whole, they formed an uneasy accord, with each retreating to their own section of Empyrea to establish its rules as they desired. In time these rules became altered and grew, most now possessing a labyrinthine set of laws that few can fully comprehend. The spirit of the Three is intact, however.
+
+        The three founding Regions consist of Apos, the central region which maintains a nominally 'normal' existence, which is connected to Diony, the City of Splendor, which is a much more public and hedonistic place. Finally, the vast wilderness areas are largely dominated by Cerel, holding the bulk of natural land, farmland, and rural areas.
+
+        Despite being in a Great Void, Empyrea largely looks like a normal world, though many feel something is slightly 'off' due to the lack of curvature of the land. The stars are often different as well. For more information on the physical layout, see Cosmology.
+
+----------------------------------- << Subcategories (type news Theme/<topic>) >> -----------------------------------
+Cosmology            Money                Void                
+---------------------------------------------------------------------------------------------------------------------
+<Newbie> Sly Monika says, "If you've got questions, some of us who can actually talk will be happy to help."
+<Newbie> Fluffle Puff scowl. Is good at answering questions in interpretive dance!
+<Newbie> Guest2 chuckles.
+--- << Rules >> -----------------------------------------------------------------------------------------------------
+
+        By playing on this server, you agree to follow the rules. We've tried to keep these rules simple, and hopefully won't need to expand them too much. Remember that staff are not robots, and thus may have to make judgement calls. In MOST cases this means you have a means of appeal.
+
+        RULE ZERO: No illegal stuff. This means no images that would be considered illegal in most jurisdictions such as bestiality, child pornography, etc. Distributing this sort of thing is a huge threat to us and if we find it, we'll be banning you instantly and probably reporting you to the authorities. Other things that will possibly get you banned are links to pirated software and movies, and any other copyright violations. As an extension of this, you MUST be 18 or older to play here. If it is found that you are younger than 18 years of age, you will be immediately banned.
+
+        RULE ONE: Don't be a jerk. If you're obnoxiously aggressive to others, especially in public, or you harass others, spread inappropriate rumors, and so on, you'll quickly find yourself drawing the ire of staff. This is supposed to be a place to safely explore kinks and fetishes, and if you become aggressive in targeting other players, either personally or in groups, you make this an uncomfortable place. Keep in mind that some of your kinks may also be very squicky to some others, so avoid being overly aggressive in public venues, unless that venue specifically caters to such things(like the Hardcore Requests board)
+
+        RULE TWO: Right to Privacy. Players may list their alts, but are not required to reveal them to anyone. Pressuring someone else to reveal their alts or personal(RL) information is a rules violation. No one, not even staff, has a right to your password, and only Royals and Wizards have access to alt lists. Note that Helpers are not considered staff. Revealing alts of other players to others is also not allowed.
+
+        RULE THREE: Right of Refusal. No one can force you to RP with another person, in any circumstances. If you feel pressured, please report it. This includes feeling pressured by a known staff alt, or someone claiming to be staff.
+
+        RULE FOUR: Consent. No one may affect your character without your OOC consent, and you may not force anything on another player's character without that player's consent. You may waive your consent willingly in some situations, but everyone should keep in mind that this is a cooperative environment, and respect for one another's players is an important part of keeping it a fun and safe environment. Note that staff may at times rule that something particularly lacking in common sense may result in IC penalties, but given the looseness of the theme this is highly unlikely to occur.
+
+----------------------------------- << Subcategories (type news Rules/<topic>) >> -----------------------------------
+Alts                 IdleNuke            
+---------------------------------------------------------------------------------------------------------------------
+--- << Rules/IdleNuke >> --------------------------------------------------------------------------------------------
+
+        Penultimate Destination normally runs an idlenuke every week. During this idlenuke, old unused characters will be deleted to free up space and names for other players. Under normal conditions, any character who has not logged in for 60 days will be deleted. Any character who has been in Character Generation longer than 30 days will also be nuked.
+
+        Players can avoid having their characters idlenuked by setting the ON-VACATION flag before any extended absences, which will extend the time period to 120 days. If a player expects to be gone for longer than that, please contact staff to make special arrangements.
+
+---------------------------------------------------------------------------------------------------------------------
+HELP
+This is the index to the MUSH online help files.
+ 
+  For an explanation of the help system, type:    help newbie
+  For a walkthrough of PennMUSH systems, type:    help getting started
+ 
+  For the list of MUSH commands, type:            help commands
+  For the list of MUSH topics, type:              help topics
+  For an alphabetical list of all help entries:   help entries 
+  For a list of entries that match a pattern:     help <wildcard>
+  For information about PennMUSH:                 help code
+  
+  For a list of flags:                            help flag list
+  For a list of functions:                        help function list 
+  For a list of attributes:                       help attribute list
+  To see the configuration of this MUSH:          @config
+ 
+  On many MUSHes, list local commands with:       +help
+ 
+  If there are any errors in the help text, please notify a wizard in
+  the game, or file a report at
+  http://code.google.com/p/pennmush/issues/list, which is the
+  bug-tracking site for PennMUSH (and its distributed help files) but
+  probably has no relation to this MUSH in particular.
+ 
+--- << Index >> -----------------------------------------------------------------------------------------------------
+Index of Help files
+
+        Upon reading, you may encounter subcategories. Access these with +help <category>/<subcategory>
+
++account           +alias             +altname           bb                 +bus               +census           
++chantitles        Colors             +colors            +complain          +config            +desc             
++enslave           Extensions         +feedback          Fertility          +finger            +gripe            
++hangouts          Housing            Idlesweep          Index              +info              Jobs              
++kick              +kinks             +leash             +lfrp              Locks              Navigating        
+Notifiers          +nukeme            +pagecolor         +places            +port              +profile          
++rdesc             reply              +roll              +search            +sethide           +sethome          
+Softcode           +staff             +station           +status            +summon            +sweep            
++time              +unlink            +view              +watch             +where             +who              
+---------------------------------------------------------------------------------------------------------------------
+--- << +kinks >> ----------------------------------------------------------------------------------------------------
+
+        +kinks(/all) <name>
+        +kinks(/all) <name>/<kink>
+        +kinks/cats
+        +kinks/list
+        +kinks/listall
+        +kinks/list <cat code>
+        +kinks/listall <cat code>
+        +kinks/info <kink code>
+        +kinks/index <string>
+        +kinks/add <kinks list>
+        +kinks/pref <pref>=<kinks list>
+        +kinks/orient <orient>=<kinks list>
+        +kinks/comment <kink>=<comment>
+        +kinks/addcom <kinks list with comments>
+        +kinks/del <kinks list>
+        +kinks/custom <code>/<cat>=<name>=<comment>
+        +kinks/find <kinks list>
+        +kinks/dump
+        +kinks/wipe
+
+        The kinks system lists the particular player's roleplay and sexual interests. While not complete, the kinks selection should provide a good idea of the various types of RP someone wants.
+
+        To access the list of kinks, use +kinks/list. This provides a list of very general kinks which are a good starting point. Most of these kinks have more specific Subkinks, which can go into great detail and which can be seen by using +kinks/listall. This is a very large list, so you may want to limit it to a category by appending the category code like so: +kinks/listall <letter> or +kinks/list <letter>. For example, use 'R' for Roleplay kinks. To see a list of the kink categories, with their code first, use +kinks/cats
+
+        To view the kinks on a given character, use +kinks <name> or +kinks/all <name> to see all the subkinks as well. When viewing a character's kinks, it will also list how much they like it(Fave for favorite kinks, Yes for kinks they are almost always up for, Maybe for kinks that they might do, and No for kinks that they do not want to deal with), and a letter code for how they like to have it performed: G for Giving, R for Receiving, and B for Both Receive and Give. The listing may also include a Comment. If you are not sure what a kink means, you can enter the kink code into +kinks/info <code> and receive a brief explanation. To search for the existence of a kink by description or by name, you can use the +kinks/index <string> command.
+
+        If desired, you can use +kinks <name>/<kink> or +kinks/all <name>/<kink> to view only a single kink. This also accepts a kink category(such as R or H without a number) to list all a player's kinks in that one category.
+
+        For more information on setting your kinks, see +help +kinks/Setting
+
+        For more information on setting customized kinks, see +help +kinks/Custom
+
+        For more information on searching kinks, see +help +kinks/Search
+
+        +kinks/dump can be used to get a dump of all your kinks and comments, in order to reuse them later.
+
+        +kinks/wipe will not actually wipe your kinks, but will output a command you can copy and paste to wipe all your kinks.
+
+        For hints on setting kinks, see +help +kinks/Advice
+
+---------------------------------- << Subcategories (type +help +kinks/<topic>) >> ----------------------------------
+Advice               Custom               Search               Setting             
+---------------------------------------------------------------------------------------------------------------------
+--- << +kinks/Advice >> ---------------------------------------------------------------------------------------------
+
+        When setting your kinks, be careful not to go overboard and set a pref for every single kink. Not only is this time-consuming, but it's extremely spammy to those looking, and many people will quickly find that it's hard to find what you REALLY want because it's difficult to sift through all the extraneous kinks. Try setting a shorter, simpler kinks list first, and add kink prefs only as you encounter others questioning or making improper assumptions.
+
+        In order to use search to the fullest, be sure to set your orientation for some kinks. This is especially true of preference kinks, where you can set your desired partners as 'Receive' kinks. For example, if you play exclusively with males, you can set Male: Receive and people can thus search for that, making it a far more reliable and accurate indicator than searching sex pref.
+
+        You can also set your own @sex through kinks by using the 'Giving' orientation, but the Receive is usually more important.
+
+        Similarly, when searching try to use the orientation flags to your advantage. Not all kinks make sense to have a Give or Receive preference, but it can help with those that do.
+
+---------------------------------------------------------------------------------------------------------------------
+------------------------------------------------ << Kinks Listing >> ------------------------------------------------
+Category B: Bondage & Domination
+ B1: Behavior              B2: Bondage               B3: Rules               
+ B4: Sensory Deprivation   B5: Slavery             
+Category H: Hardplay
+ H1: Amputation            H2: Blood                 H3: Breath Control      
+ H4: Death                 H5: Drugs                 H6: Enema               
+ H7: Inflation             H8: Rape                  H9: Torture             
+ H10: Messy                H11: Mutilation           H12: Necrophilia        
+ H13: Scat                 H14: Transformation       H15: Vomit              
+ H16: Vore                 H17: Watersports        
+Category M: Role
+ M1: Bottom                M2: Dominant              M3: Equal               
+ M4: Submissive            M5: Switch                M6: Top                 
+Category P: Preference
+ P1: Androgynous           P2: Cuntboys              P3: Females             
+ P4: Hermaphrodites        P5: Male Herms            P6: Males               
+ P7: Shemales              P8: Transgender         
+Category R: Roleplay
+ R1: Clothing              R2: Exhibitionism         R3: Food                
+ R4: Instant Hookups       R5: Long Term             R6: Magic               
+ R7: Mind Control          R8: Nonsexual             R9: Perspective - First 
+ R10: Perspective - Secon  R11: Perspective - Third  R12: Pregnancy          
+ R13: Role Reversal        R14: Romance              R15: RP in RP           
+ R16: Rubber/Latex         R17: Sandboxing           R18: Taboo              
+ R19: Teasing              R20: Themed               R21: Unwilling          
+ R22: Violence             R23: Voyeurism          
+Category S: Sex
+ S1: Anal Sex              S2: Biting                S3: Breasts             
+ S4: Clothed Sex           S5: Condoms               S6: Cumplay             
+ S7: Exotic                S8: Masturbation          S9: Multiple Penetration
+ S10: Oral Sex             S11: Penis Sex            S12: Toys               
+ S13: Vaginal Sex        
+Category T: Body Types
+ T1: Animal                T2: Animal Anatomy        T3: Anthro              
+ T4: Artificial            T5: Elderly Partners      T6: Exotic Anatomy      
+ T7: Exotic Material       T8: Exotic Species        T9: Extreme Anatomy     
+ T10: Giant/Macro          T11: Head Hair            T12: Hirsute            
+ T13: Humanoid             T14: Large Anatomy        T15: Sexless            
+ T16: Shapeshifters        T17: Small Anatomy        T18: Tails              
+ T19: Taurs/Hybrid         T20: Tentacles            T21: Twins/Clones       
+ T22: Wings                T23: Young Partners       T24: Decorations        
+---------------------------------------------------------------------------------------------------------------------
+Thank you for visiting.
+
+Please return soon.
+
+*********** D I S C O N N E C T E D ***********
+
+% Connection to (unnamed6) closed by foreign host.
+===================================================================
+=          Log for world *** (unnamed6) ***, ended Tue Sep 29 21:52:12 2015
+===================================================================

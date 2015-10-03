@@ -1,0 +1,471 @@
+====================================================================
+=          Log for world *** (unnamed2) ***, started Tue Sep 29 18:25:42 2015
+===================================================================
+This world is Pueblo 1.0 enhanced
+
+
+                ,,ggddY888Ybbgg,,
+           ,agd8""'   .d8888888888bga,
+        ,gdP""'     .d88888888888888888g,
+      ,dP"        ,d888888:::::::::88:::8b, ##     ######   #####
+    ,dP"         ,88888888888:::8888:88::88b##     ##      ##
+   ,8"          ,888888888888:::888:::::::88:#     ####     ####
+  ,8'           I888888888888:::888:8888::88::,    ##          ##
+ ,8'            `888888888888:::888:8888::88:::### ######  #####
+ d'              `88888888888888888888888888888b
+ 8                `"888888888888888888888::::888
+ 8                  `"88888888888::::888::888888
+ 8                      `"888888::88::8:::::8888
+ Y,                        `8888::88::88::88888P
+ `8,                         `888::::888::88888'
+  `8,                         `888888888888888'
+   `8a           #########  ###888::8::88::88###### ######  ######  ###   ##
+    `Yba            ###    #  ::88:88::88::P'##     ##   ## ##      ####  ##
+      "Yba          ###   ###::::8888::88:#  ####   ######  ####    ## ## ##
+        `"Yba,      ###   #,888::88888::##   ##     ##  ##  ##      ##  ####
+           `"Y8baa, ###   #d888::888P"'##    ###### ##   ## ######  ##   ###
+               ``""YYba8888P""''
+                                         ##########
+                                           ##  ##
+                                           ##  ##
+                                           ##  ##
+                                         ##########
+
+
+------------------------------------------------------------------------------
+  "connect <name> <password>" connects you to an existing character.
+  "create <name> <password>" creates a new character.
+  "WHO" tells you who is logged in to the game (case sensitive).
+  "QUIT" exits the game and saves your character.
+  "news" informs you about recent program changes and items of interest.
+  "help" gives help on the commands, "help commands" for a list.
+------------------------------------------------------------------------------
+Either that player does not exist, or has a different password.
+Welcome to the world of TinyMUSH.  Explore places.  Meet people.  Have fun!
+If you need help, just ask somebody (type a double quote mark and then type
+your question, like this:
+
+"How do I keep people from picking me up?
+
+The question will appear to others in the same room as:
+
+<yourname> says "How do I keep people from picking me up?"
+------------------------------------------------------------------------------
+MAIL: You have no mail.
+OOC: A Beginning...
+
+                       Welcome to Tales of Ta'veren II!                       
+
+Before going any further, we'll need you to take care of a few basic things:
+
+1. Lock your character! (Do this by typing @lock me=me)
+2. Choose your gender. (@sex me=Male or @sex me=Female)
+3. Describe yourself. (@desc me=Tall, short, fair, dark, thin, whatever you wish.)
+4. Set your email address. (+email=you@email.address)
+   [NOTE: This is not a public setting.  This will set your email address
+   in an attribute that only appears to the game's staff.] 
+------------------------------------------------------------------------------
+Other things you may want to do include:
+
+Join the public channel! (pub +me)
+See if any of our friendly greeters are online! (+greeters)
+Speak on the greeters channel to them! (=grt <text>)
+Read through 'news getting started' for more information!
+Check out our website at http://www.users.on.net/~charmer/
+------------------------------------------------------------------------------
+
+Obvious Exits: 
+Pick a Character <PC>                 Create a Character <CC> 
+OOC Nexus <OOC>                       Recruiting Nexus <RN>
+                  ==========================================                   
+==================| Event Listing for Tales of Ta'veren II |===================
+                  ==========================================                   
+  #    Scheduled Time                          Event
+
+  71   Sun Feb 10 05:00:00 2008 [GMT+0]        Idledest
+  77   Sat Feb 20 02:00:00 2010 [GMT+0]        Staff Meeting
+  80   Sun Mar  7 02:00:00 2010 [GMT+0]        Staff Meeting
+  81   Thu Apr  1 01:01:00 2010 [GMT+0]        Double XP April
+  82   Fri Apr 30 13:00:00 2010 [GMT+0]        Double XP May
+  86   Sun May  2 02:00:00 2010 [GMT+0]        Staff Meeting
+  91   Sun May 16 00:00:00 2010 [GMT+0]        Joint Tower Judicial Proceedings
+  87   Sun May 16 02:00:00 2010 [GMT+0]        Staff Meeting
+  93   Sun Jun 13 01:30:00 2010 [GMT+0]        Wedding of Lord Idros and Lady Innogen 
+  94   Sun Jul  4 02:00:00 2010 [GMT+0]        Staff Meeting
+  98   Sun Jul 18 02:00:00 2010 [GMT+0]        Sitting of the Hall
+  102  Sun Aug 15 12:00:00 2010 [GMT+0]        Masquerade Ball
+  103  Sun Aug 22 01:00:00 2010 [GMT+0]        Cairhien Event
+  109  Sat Aug 28 04:00:00 2010 [GMT+0]        Scenic Tour of the Foregates
+  108  Sun Aug 29 01:00:00 2010 [GMT+0]        How to Deal with Traitors
+  107  Sun Aug 29 01:00:00 2010 [GMT+0]        Invitation to a Conspiracy
+  110  Sun Sep  5 02:00:00 2010 [GMT+0]        Gathering Foregaters
+  112  Sun Sep 19 01:00:00 2010 [GMT+0]        Something Afoot in Cairhien
+  113  Sat Oct  2 04:00:00 2010 [GMT+0]        Cairhien Showdown Part 1
+  114  Sun Oct  3 01:00:00 2010 [GMT+0]        Cairhien Showdown Part 2
+
+         .-----------------------------------------------------------.         
+---------| Type '+event <event #>' for more information on the event |---------
+         '-----------------------------------------------------------'         
+You have been added to the Greeters comm group.
+You have been added to the Help comm group.
+You have been added to the Public comm group.
+Locked.
+Set.
+Set.
+Your email address has been set to 'kiyote23@gmail.com'.  Thank you for registering.
+Connected players on Greeters's comm group:
+Q Staff Name            Sex Idle Position                      
+---------------------------------------------------------------------------
+- No    Willem           M    1s                               
+-------------------------------- 1 player ---------------------------------
+-----[ Tales of Ta'veren II ]-----------------[ Tue Sep 29 23:30:50 2015 ]-----
+   Name          Sex  Conn  Idle   Occupation
+-------------------------------------------------------------------------------
+   Willem         M    2m   0s     
+
+-------------------------------------------------------------------------------
+ 1 character connected        Record: 51 characters : Sun Feb 28 03:03:43 2010
+OOC: A Beginning...
+
+                       Welcome to Tales of Ta'veren II!                       
+
+Before going any further, we'll need you to take care of a few basic things:
+
+1. Lock your character! (Do this by typing @lock me=me)
+2. Choose your gender. (@sex me=Male or @sex me=Female)
+3. Describe yourself. (@desc me=Tall, short, fair, dark, thin, whatever you wish.)
+4. Set your email address. (+email=you@email.address)
+   [NOTE: This is not a public setting.  This will set your email address
+   in an attribute that only appears to the game's staff.] 
+------------------------------------------------------------------------------
+Other things you may want to do include:
+
+Join the public channel! (pub +me)
+See if any of our friendly greeters are online! (+greeters)
+Speak on the greeters channel to them! (=grt <text>)
+Read through 'news getting started' for more information!
+Check out our website at http://www.users.on.net/~charmer/
+------------------------------------------------------------------------------
+
+Obvious Exits: 
+Pick a Character <PC>                 Create a Character <CC> 
+OOC Nexus <OOC>                       Recruiting Nexus <RN>
+==============================================================================
+                 Tales of Ta'veren II -- News Getting Started                 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     
+How do I get a character?
+     
+There are two options on Tales for your first character. You may take a 
+pregenerated character from the +roster, or you may generate your own by 
+entering the 'Create a Character' exit from the first room, or going straight 
+into Chargen from the OOC Nexus. However, one of your first two characters 
+must be from the +roster - and all noble characters must be from the +roster.
+    
+See 'news character' to create a character.
+See '+help roster' and 'news roster' to select a character.
+See 'news website', 'news policy alts' and 'news roster faq' for more 
+information.
+            
+To continue, see 'news getting started2'
+==============================================================================  
+==============================================================================
+                    Tales of Ta'veren II -- News Characters                   
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   
+All characters from ToT I are welcome on ToT II, including restricted 
+characters. New, in-theme characters are also welcome.
+   
+All characters are required to complete chargen; old and new.
+     
+Please note: We do not have book characters here on Tales II. There is no 
+Nynaeve, no Lan. We do have a Dragon Reborn, it is not Rand. We do have a 
+Queen of Andor, it is not Morgase. We do have an Amyrlin Seat, it is not 
+Siuan Sanche.
+      
+For more information, see:
+      
+NEWS AGE
+NEWS AIEL
+NEWS BACKGROUND
+NEWS CAIRHIEN
+NEWS CHARGEN
+NEWS DRAGONSWORN
+NEWS FEATURE CHARACTERS
+NEWS IC GROUPS
+NEWS IDLE
+NEWS LOGS
+NEWS OGIER
+NEWS POLICY OLD CHARACTERS
+NEWS ROSTER
+NEWS RESTRICTED CHARACTERS
+NEWS TALENTS
+NEWS WHITE TOWER
+     
+==============================================================================
+==============================================================================
+                       Tales of Ta'veren II -- News Age                       
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   
+Age is a defining aspect for your characterizations on Tales of Ta'veren II.
+Is your character young and naieve, or older and worldly?   Typically, the
+younger have had fewer experiences, but are more flexible than the aged,
+who've developed tried and true habits, and have more time to hone their
+talents.  
+    
+The life span of people in the Wheel of Time world is somewhat longer than it
+might be in equivalent Real World cultures or historical periods.  Living
+conditions, sanitation, and sanitary habits tend to be quite good amongst all
+save the poorest individuals.  Though Healthcare is not particularly advanced 
+(a result of hedge medicine and cultural reliance on the One Power, perhaps),
+certain habits such as washing one's hands between patients and quarantining 
+the ill are understood and widely practiced.  Practices such as Bloodletting,
+Leeching, and the like are considered obscene and are not practiced.  The
+result is a generally healthly populace, in which individuals typically reach
+the age of 75, and often live longer still.
+    
+The age you select for you character is used to calculate how many Skill Points
+you will recieve in Chargen.
+     
+Aging exacts a heavy toll on people - their senses may lose acuity, they may
+become weaker of less dexterous, etc. When you character reaches a certain Age,
+whether in Chargen or during play, the character generation system will
+calculate the chance of whether Age has negatively affected your character.
+    
+Continued in 'news age2'
+==============================================================================
+==============================================================================
+                      Tales of Ta'veren II -- News Age II                     
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      
+HUMANS
+The maximum age you can select for a normal human character is 75.  This upper
+limit is in place because your character will continue ageing as you play it. 
+Ageing typically begins to affect humans around 65 years of age.
+   
+CHANNELERS
+Manifestation of the One Power seem to be linked to the onset of puberty. 
+Children cannot Channel, and it is impossible to even determine if the child
+will be able to harness the One Power.  Puberty sets in between 16-18 years of
+age in the Wheel of Time world, so if you intend to play a Wilder, your
+character must be at least sixteen years of age.  Should you wish to play a
+'discovered' Channeler, this minimum is unnecessary - but your abilitiles 
+cannot be so discovered until after the onset of puberty.
+   
+FEMALE CHANNELERS
+Women who can Channel find that their aging slows down in their mid-twenties,
+particularly if they channel regularly.  These women can live much, much longer
+than the average human being.  The maximum Age a female channeler can select is
+475 years.  Negative aging affects such characters at 300 years of age.
+   
+AES SEDAI
+If you apply to play a full Aes Sedai in Chargen, the minimum age you can 
+choose for you character is 60 years.  The average age to be raised to Aes 
+Sedai is from 25 to 35 years.  Since the characters who role-play their way up
+from novice fill our the younger ages of the age spectrum, those who wish to
+start play as full Sedai have to be set up as older characters to round out the
+Tower's population.
+   
+Aes Sedai experience slowed aging, similar to other female Channelers.  Their
+lifespan is much longer that of the average human being, but shorther than that
+of other female Channelers (This is probably due to holding the Oath Rod, but
+that is not In-Character knowledge).  The maximum age that an Aes Sedai may
+select is 275 years.  The effects of aging begin to take their toll on Aes
+Sedai from 180 years onwards.
+   
+Continued in 'news age3'
+==============================================================================
+==============================================================================
+                     Tales of Ta'veren II -- News Age III                     
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   
+MALE CHANNELERS
+Age poses less of a concern to Male Channelers, who must contend with the 
+Taint. 
+ 
+Male Channelers tend to have much more limited life spans than those of other
+characters, typically living no more than 10 years after the onset of their
+Channeling abilities.  Otherwise, Male Channelers are identical to Female
+Channelers for the purposes of determining their minimum age, and would live
+equally as long, were they not so Tainted.
+   
+RESTRICTED POWERS AND AGE
+Various restricted character types have abilities that, like the ability to
+Channel the One Power, begin to manifest during puberty, or shortly
+thereafter. 
+  
+These restricteds include:  Viewers, Sniffers, Wolfkin, and Dreamwalkers.  As a
+result, no character with these abilities will be able to set their age lower
+than 16.
+   
+RESTRICTED SKILLS AND AGE
+There are some restricted character types that display remarkable skill and
+training - something not easily acquired in one's youth.  As a result
+Weaponmasters, including the Blademaster, have a minimum age of 30 in Chargen. 
+It is acceptable to role-play the process of achieving the necessary skill
+levels to claim one of these titles at an age younger than 30, but such focus
+and dutiful attention to detail is often lost on the very young.
+  
+WARDERS
+The fighting men of the White Tower are trained rigorously from young adulthood
+until they are men grown.  As a result, Trainees often join the Tower as young
+as 16, but it is rare that a Proven is given his Fancloth cloak before the age
+of 30.  Furthermore, the Tower rarely accepts men that are older than twenty,
+unless they can show that they are more than merely competent warriors:  The
+White Tower accepts only the best.
+  
+OGIER
+The Ogier age much more slowly than human beings, and live for a much longer
+period of time.  They are not considered to reach maturity until 90 or 100
+years of age.  As a general guide, 1 human year of age is equivalent to 5 Ogier
+years.  So an Ogier who's 200 years old would be equivalent in age to a human
+of 40.
+   
+If you selected the Ogier culture, the youngest age you can select in Chargen 
+is 80.  The oldest age you can select is 475.  Ogier begin to feel the effects
+of advancing age from 300 years onwards.
+   
+Continued in 'news age4'
+==============================================================================
+==============================================================================
+                      Tales of Ta'veren II -- News Age IV                     
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       
+TYPE                    MIN             MAX
+Female Wilder           16              475
+AS: Novice              16              475 (has not yet used the Oath Rod)
+AS: Accepted            21              475 (has not yet used the Oath Rod)
+AS: Aes Sedai           60              275
+   
+Male Wilder             16              --
+MC: Disciplined         16              --
+MC: Dedicated           21              --
+MC: Devoted             25              --
+   
+Viewer                  16              --
+Sniffer                 16              --
+Dreamwalker             16              --
+Wolfkin                 16              --
+   
+Warder: Trainee         16              21
+Warder: Proven          21              30
+Warder: Trained         30              55
+Warder: Retired         55              --
+   
+Blademaster             30              --
+Weaponmaster            30              --
+   
+Ogier                   80              475
+   
+==============================================================================
+==============================================================================
+                    Tales of Ta'veren II -- News Characters                   
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   
+All characters from ToT I are welcome on ToT II, including restricted 
+characters. New, in-theme characters are also welcome.
+   
+All characters are required to complete chargen; old and new.
+     
+Please note: We do not have book characters here on Tales II. There is no 
+Nynaeve, no Lan. We do have a Dragon Reborn, it is not Rand. We do have a 
+Queen of Andor, it is not Morgase. We do have an Amyrlin Seat, it is not 
+Siuan Sanche.
+      
+For more information, see:
+      
+NEWS AGE
+NEWS AIEL
+NEWS BACKGROUND
+NEWS CAIRHIEN
+NEWS CHARGEN
+NEWS DRAGONSWORN
+NEWS FEATURE CHARACTERS
+NEWS IC GROUPS
+NEWS IDLE
+NEWS LOGS
+NEWS OGIER
+NEWS POLICY OLD CHARACTERS
+NEWS ROSTER
+NEWS RESTRICTED CHARACTERS
+NEWS TALENTS
+NEWS WHITE TOWER
+     
+==============================================================================
+==============================================================================
+                       Tales of Ta'veren II -- News Aiel                      
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    
+The Aiel live east of the Spine of the World, in an arid desert they call the
+Three-Fold Land, and others call the Aiel Waste. The daytime heat of the 
+Waste can kill those unaccustomed to it, but the nights are cold. Poisonous 
+plants and animals are found throughout the Three-Fold Land. The Aiel divide
+themselves into twelve clans, though they sometimes speak of a thirteenth 
+clan. Each clan is lead by a Clan Chief.
+    
+Aiel culture, customs and family relations are very complex and a complete 
+mystery to peoples in other parts of the world. Ji'e'toh is the rigid and 
+elaborate system that governs the Aiel society. Ji'e'toh permeates all 
+interactions in Aiel life, from fighting to marriage. 
+    
+Because of the feuds between clans, the Blight at their northern border and 
+the harsh conditions of the Waste, the Aiel have a strong warrior tradition. 
+Each warrior is a member of one of twelve warrior societies. Female warriors 
+are culturally accepted, and belong to the Maidens of the Spear warrior 
+society. Women hold other important roles in the Aiel culture. Although all 
+Clan Chiefs are male, it is the women who own the land of the Hold 
+settlements. Some women become Wise Ones, and act as counsellors and healers.
+   
+Currently the Shaarad, Goshien and Nakai clans are preferred, since they 
+have openly pledged alliegance to the Car'a'carn. We recommend the Far Dareis
+Mai, Sovin Nai and Cor Darei warrior societies. 
+              
+==============================================================================
+==============================================================================
+                    Tales of Ta'veren II -- News Background                   
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   
+Each character, should have a background set which explains their past life, 
+their family and circumstances. Backgrounds do not have to be tediously long, 
+but should be sufficient to give an idea of the character. Backgrounds should
+be written for each character with a long term and a short term goal, if 
+possible. Backgrounds may be written in the character's voice or third person,
+depending on your preference.
+           
+Below, are listed a few points which should be included for all characters 
+where applicable. Please note that backgrounds longer than can be set 
+using the +bg command will not be accepted.
+  
+1. Character's name
+2. Character's age
+3. Character's place of birth and early life, parents, siblings etc. What
+   culture did the character grow up in? What was their family life like? 
+   Did they have siblings? What did their family do?
+4. Type of character applying for?
+5. How did character discover they were a _____? (please be brief)
+6. How long has character been a _____? Significant events? 
+   (ie. Arches scenarios, Wilder block formation, Wolfkin experience.)
+7. What abilities do you see this character having and what parts of 
+   their early life might have contributed? How did they spend the previous
+   years? Did they learn or do anything of particular interest?
+8. What capabilities or powers are you applying for, outside of typical for
+   that type of character? (ie, One Power Talents or exceptional strength,
+   ter'angreal, One Power forged swords, etc.)
+9. Does the character have any enemies, friends and future goals? Do they
+   have any particular traits, positive or negative? Do they have any secrets
+   to hide or special knowledge?
+       
+See '+help bg' for how to set the background.   
+==============================================================================
+GAME: Database being saved.
+*** Inactivity Timeout ***
+
+The Wheel of Time turns, and Ages come and pass, leaving memories that fade to
+myth and legend. In one Age, called the Information Age by some, an Age of
+cable modems, an Age of cell phones, you logged out of Tales of Ta'veren II.
+
+*** TinyMUSH Disconnected ***
+% Connection to (unnamed2) closed by foreign host.
+===================================================================
+=          Log for world *** (unnamed2) ***, ended Tue Sep 29 19:33:23 2015
+===================================================================

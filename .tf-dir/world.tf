@@ -1,0 +1,6 @@
+/test addworld("PrairieMOO", "tiny.moo", "Trixie.local", "7777")
+/test addworld("SerenityMUSH", "tiny.mush", "192.95.60.225", "2020", "Coyote", "y0gurt")
+/test addworld("tt2", "tiny.mush", "tales.mushserver.com", "6250", "Willem", "y0gurt")
+/test addworld("Serenity", "tiny.mush", "192.95.60.225", "2020", "Coyote", "y0gurt")
+/test addworld("Miriani", "tiny.moo", "toastsoft.net", "1234", "Coyote", "y0gurt")
+/test addworld("Penultimate", "tiny.mush", "penultimatemush.com", "9500", "Coyote", "y0gurt")

@@ -1,0 +1,126 @@
+;;; Updated with stuff from Gwen Morse's Wiki www.gwen-morse.com
+;;; updated 2015-09-28 k23
+
+/set LASTMOD=TFRC last modified: 2015-09-28
+
+;;; Definitions that must come 'first'
+
+/def -Fag -hREDEF gag_redef
+/def -Fag -h'conflict' gag_conflict
+/def -hload -Fag gag_load
+
+;;; Setting TF system defaults
+
+/visual on
+/more off
+/redef on
+/set maildelay=0
+/set oldslash=off
+/set cleardone=on
+/set quiet=on
+/set wrapspace=2
+/set insert=on
+/set histsize=100000
+/set ptime=0
+/set max_trig=20000
+/set pedantic=off
+/set keepalive=on
+/set warn_5keys=off
+
+/eval /set n1=$[char(10)]
+
+;;; Files
+
+;;; Enter the directory where you keep your tf files.
+/cd ~/.tf-dir
+
+;;; Define default filenames for /load*, /save*, and /log commands.
+/def MACROFILE	= ~/.tf-dir/macros.tf
+/def HILITEFILE	= ~/.tf-dir/hilite.tf
+/def GAGFILE	= ~/.tf-dir/gag.tf
+/def TRIGFILE	= ~/.tf-dir/trig.tf
+/def BINDFILE	= ~/.tf-dir/bind.tf
+/def HOOKFILE	= ~/.tf-dir/hook.tf
+/def WORLDFILE	= ~/.tf-dir/world.tf
+; /def LOGFILE	= tiny.log
+/def LOGDIR = ~/.tf-dir/logs
+
+
+;;; Load files.
+;;; Only useful if you have these files, of course.
+/loadworld
+; /loadhilite
+; /loadgag
+; /loaddef
+; /loadbind
+; /loadtrig
+
+;; MCP 1
+; /load mcp.tf
+
+;; New MCP 2.1!
+;
+/load mcp21.tf
+/load mcp-negotiate.tf
+/load simpleedit.tf
+/load local-edit.tf
+
+;;; Lib programs
+
+/require stack-q.tf
+/require tools.tf
+/require world-q.tf
+/require spc-page.tf
+/require kbstack.tf
+/require complete.tf
+/require textutil.tf
+/require spell.tf
+/require lisp.tf
+
+;;; Logging Macros
+
+/def -Fp100 -h'connect' connect_log = \
+  /log -w ${LOGDIR}/$[ftime("%Y-%m-%d", time())]_${world_name}.log %;\
+  /eval /echo -ag -w${world_name} \
+  %==================================================================== %;\
+  /eval /echo -ag -w${world_name} \
+  %=          Log for world *** ${world_name} ***, started $(/time %%c) %;\
+  /eval /echo -ag -w${world_name} \
+  %=================================================================== 
+
+; Lets /dc function like 'QUIT' to trigger the disconnect (needed to close the log)
+
+/def -F -lag -h'conflict' gagconflict
+/def -Fiq dc = /if /@dc %*%; /then /trigger -hdisconnect %*%; /endif
+
+; This lets you return to the log after shutting it off with /log off
+; Syntax: '/relog'
+
+/def -i -q relog = /connect_log
+
+; disconnect the log
+
+/def -Fp100 -h'disconnect' disconnect_log = \
+  /eval /echo -ag -w${world_name} \
+  %=================================================================== %; \
+  /eval /echo -ag -w${world_name} \
+  %=          Log for world *** ${world_name} ***, ended $(/time %%c) %;\
+  /eval /echo -ag -w${world_name} \
+  %=================================================================== %;\
+  /log -w${world_name} off
+
+;; Highlighting
+
+; bold cyan color pages
+/def -i -p2 -aBCcyan -t'* pages[,:] *' hl_page1
+/def -i -p2 -aBCcyan -t'You sense that * is looking for you in *' hl_page2
+/def -i -p2 -aBCcyan -t'From afar, *' hl_page3
+/def -i -p2 -aCcyan -t'Long distance to *' hl_page4
+/def -i -p2 -aCcyan -t'You paged *' hl_page5
+
+;bold green multi-pages
+/def -i -p3 -aBCgreen -t'* pages (*) *' hl_mpage1
+/def -i -p5 -aBCgreen -mregexp -t"(multipages|multi-pages)" hl_mpage2
+/def -i -p5 -aCgreen -mregexp -t"(multipage|multi-page)" hl_mpage3
+/def -i -p6 -aBCgreen -t'(To: *)' hl_mpage4
+/def -i -p4 -aCgreen -t'(To: *) Long Distance, *' hl_mpage5

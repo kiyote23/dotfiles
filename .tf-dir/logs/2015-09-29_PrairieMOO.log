@@ -1,0 +1,27 @@
+====================================================================
+=          Log for world *** PrairieMOO ***, started Tue Sep 29 14:08:44 2015
+===================================================================
+Welcome to the JHCore database.
+  Extracted August 27, 2002 (under LambdaMOO 1.8.1)
+
+Type 'connect wizard' to log in.
+
+You will probably want to change this text, which is stored in $login.welcome_message.
+
+Before you do, though, please read `help core-copyright' (linked to `help copyright') for the exceedingly broad copyright on JHCore.
+
+You will also want to read `help getting-started' for some more information about starting a JHCore MOO.
+*** Connected ***
+#$#mcp version: 2.1 to: 2.1
+The First Room
+Well, it seems that this might be the best we can do. I'm not sure why, but at least it's working. So, maybe we should leave it like this and move on to something else. We've been chasing our tail on this for some time.
+Last connected Mon Sep 28 17:38:38 2015 CDT from 10.0.1.54
+#$#mcp-negotiate-can 279323956 package: mcp-negotiate min-version: 1.0 max-version: 2.0
+#$#mcp-negotiate-can 279323956 package: mcp-cord min-version: 1.0 max-version: 1.0
+#$#mcp-negotiate-can 279323956 package: dns-org-mud-moo-simpleedit min-version: 1.0 max-version: 1.0
+#$#mcp-negotiate-end 279323956
+*** Shutting down: shutdown signal received ***
+% Connection to PrairieMOO closed by foreign host.
+===================================================================
+=          Log for world *** PrairieMOO ***, ended Wed Sep 30 17:03:11 2015
+===================================================================
