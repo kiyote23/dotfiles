@@ -56,6 +56,7 @@ let g:solarized_visibility = "high"
 let g:solarized_contrast = "high"
 let g:solarized_termtrans=1
 colorscheme solarized
+togglebg#map("<F5>")
 
 " Enable the list of buffers
 let g:airline#extensions#tabline#enabled = 1
@@ -97,3 +98,10 @@ nmap <leader>bl :BuffergatorOpen<cr>
 "" Shared bindings from Solution #1 from earlier
 nmap <leader>T :enew<cr>
 nmap <leader>bq :bp <BAR> bd #<cr>
+
+"" Yank text to the OS X clipboard
+noremap <leader>y "*y
+noremap <leader>yy "*Y
+
+"" Preserve indentation while pasting text from the OS X clipboard
+noremap <leader>v :set paste<CR>:put *<CR>:set nopaste<CR>
