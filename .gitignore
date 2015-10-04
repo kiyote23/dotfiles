@@ -1,0 +1,2 @@
+.tf-dir/logs/*
+.tf-dir/.tfmcp*
