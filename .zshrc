@@ -86,9 +86,10 @@ setopt AUTO_CD
 # For a full list of active aliases, run `alias`.
 #
 # Example aliases
-alias zshconfig="bbedit ~/.zshrc"
-alias ohmyzsh="bbedit ~/.oh-my-zsh"
+alias zshconfig="vim ~/.zshrc"
+alias ohmyzsh="vim ~/.oh-my-zsh"
 alias ls="ls -alGFh"
+alias vim="Applications/MacVim.app/Contents/MacOS/Vim"
 
 source ~/.oh-my-zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 . `brew --prefix`/etc/profile.d/z.sh

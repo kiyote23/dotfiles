@@ -1,4 +1,4 @@
-/set mcp21_tmpdir=~/.tf-dir
+/set mcp21_tmpdir=~/tmp
 ;/set mcp21_tmpdir=/homes/bjj/tmp
 
 ;;

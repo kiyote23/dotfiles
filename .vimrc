@@ -30,6 +30,7 @@ set formatoptions+=1
 
 "" Linenumbers
 set number
+set relativenumber
 
 "" Spelling
 autocmd BufRead,BufNewFile *.txt setlocal spell

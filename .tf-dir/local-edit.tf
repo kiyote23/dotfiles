@@ -3,7 +3,7 @@
 
 /if (DISPLAY !~ "") \
 	/def le_do_edit = \
-		/quote -0 -dexec -w%1 !tmux split-window -v; tmux send-keys "vim %2" C-m; wait; echo '/le_edit_done $[replace("'", "'\"'\"'", {*})]'%;\
+		/quote -0 -dexec -w%1 !tmux split-window -v; tmux send-keys "%{le_editor} %2" C-m; echo '/_echo %*'%;\
 /endif
 
 ; We try to grab TTY here if we have async editing, since screen needs to
