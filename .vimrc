@@ -106,3 +106,26 @@ noremap <leader>yy "*Y
 
 "" Preserve indentation while pasting text from the OS X clipboard
 noremap <leader>v :set paste<CR>:put *<CR>:set nopaste<CR>
+
+"" Buffer stuff
+set hidden
+nmap <leader>T :enew<cr>
+nmap <leader>l :bnext<cr>
+nmap <leader>h :bprevious<cr>
+nmap <leader>bq :bq <BAR> bd #<cr>
+nmap <leader>bl :ls<CR>
+
+"" Center cursor in middle of screen
+nnoremap <leader>zz :let &scrolloff=999-&scrolloff<CR>
+
+"" Open NERDtree
+nmap <leader>nt :NERDTree<cr>
+
+"" Edit and Reload .vimrc files
+"" from https://github.com/aaronlake/vimrc/blob/master/setting/keymap.vim
+nmap <silent> <leader>ev :e $MYVIMRC<cr>
+nmap <silent> <leader>es :so $MYVIMRC<cr>
+
+"" Send Email from Vim using Mail.app
+nmap <leader>nm :NewMailApp<CR>
+nmap <leader>sm :SendMailApp<CR>
