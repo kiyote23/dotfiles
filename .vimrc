@@ -120,6 +120,7 @@ nnoremap <leader>zz :let &scrolloff=999-&scrolloff<CR>
 
 "" Open NERDtree
 nmap <leader>nt :NERDTree<cr>
+nmap <leader>nc :NERDTreeClose<cr>
 
 "" Edit and Reload .vimrc files
 "" from https://github.com/aaronlake/vimrc/blob/master/setting/keymap.vim
