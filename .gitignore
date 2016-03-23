@@ -1,2 +1,3 @@
-.tf-dir/logs/*
+.tf-dir/log/*
 .tf-dir/.tfmcp*
+*.log
