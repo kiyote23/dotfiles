@@ -43,7 +43,7 @@
 /def HOOKFILE	= ~/.tf-dir/hook.tf
 /def WORLDFILE	= ~/.tf-dir/world.tf
 ; /def LOGFILE	= tiny.log
-/def LOGDIR = ~/.tf-dir/logs
+/def LOGDIR = ~/.tf-dir/log
 
 
 ;;; Load files.
